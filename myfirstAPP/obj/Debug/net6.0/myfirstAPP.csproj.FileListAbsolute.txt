@@ -1,0 +1,15 @@
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\bin\Debug\net6.0\myfirstAPP.exe
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\bin\Debug\net6.0\myfirstAPP.deps.json
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\bin\Debug\net6.0\myfirstAPP.runtimeconfig.json
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\bin\Debug\net6.0\myfirstAPP.dll
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\bin\Debug\net6.0\myfirstAPP.pdb
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.csproj.AssemblyReference.cache
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.AssemblyInfoInputs.cache
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.AssemblyInfo.cs
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.csproj.CoreCompileInputs.cache
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.dll
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\refint\myfirstAPP.dll
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.pdb
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\myfirstAPP.genruntimeconfig.cache
+C:\Users\kumar978\source\repos\myfirstAPP\myfirstAPP\obj\Debug\net6.0\ref\myfirstAPP.dll
